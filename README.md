@@ -6,9 +6,9 @@
 (Target = 0). Результаты работы оформлены в виде Streamlit-приложени
 ## Датасет
 Используется датасет **"AI4I 2020 Predictive Maintenance Dataset"**,
-содержащий 10 000 записей с 14 признаками. Подробное описание датасе
+содержащий 10 000 записей с 14 признаками. Подробное описание датасета
 можно найти в [документации]
-(https://archive.ics.uci.edu/dataset/601/predictive+maintenance+data
+(https://archive.ics.uci.edu/dataset/601/predictive+maintenance+data)
 
 
 ## Установка и запуск
@@ -29,4 +29,4 @@ streamlit run app.py
 - `video`: Папка с видео-демонстрицией
 
 ## Видео-демонстрация
-[Скачать и посмотреть видео](video/demo.mp4)
+[Скачать и посмотреть видео](video/demo.mkv)
